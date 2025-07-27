@@ -1,0 +1,11 @@
+id,items
+1,"['pan','leche','mantequilla']"
+2,"['pan','leche','mermelada']"
+3,"['pan','leche','queso']"
+4,"['pan','queso','cerveza']"
+5,"['leche','pan','cereal']"
+6,"['pan','mantequilla','cereal']"
+7,"['leche','cereal','galletas']"
+8,"['pan','leche','cereal']"
+9,"['pan','leche','cereal','galletas']"
+10,"['pan','leche','galletas']"
